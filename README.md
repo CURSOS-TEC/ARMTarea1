@@ -3,6 +3,8 @@
 Este repositorio tiene las soluciones de la Tarea #1 del curso de Arquitectura de Computadores 1, **CE4301**. Los detalles de la tarea se pueden obtener mediante el siguiente documento [Arqui1_Tarea1_v3.pdf](https://github.com/CURSOS-TEC/ARMTarea1/blob/master/Arqui1_Tarea1_v3.pdf "Arqui1_Tarea1_v3.pdf")
 
 # Diagrama de proceso
+> Este diagrma debe de ser abierto en un navegador web debido a que es en formato HTML.
+
 Los pseudocódigos fueron diagramados utilizado el editor Draw.io en donde se exporta un archivo HTML. ([Tarea1Arqui1.html](https://github.com/CURSOS-TEC/ARMTarea1/blob/master/Tarea1Arqui1.html "Tarea1Arqui1.html"))
 
 > Se debe de considerar que este archivo HTML tiene un panel de navegación con los dos diagramas  en donde  la primera página se encuentra los respectivos diagramas para el ejercicio 1 y en la siguiente página los correspondientes para el ejercicio 2. 
