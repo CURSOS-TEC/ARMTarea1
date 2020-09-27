@@ -1,3 +1,9 @@
+# Información Personal
+ - Juan Esteban Navarro Cmaacho 
+ - Carné: 201236227
+ - Correo jnavcamacho@gmail.con
+
+
 # Tarea 1: Programación con Ensamblador ARM
 
 Este repositorio tiene las soluciones de la Tarea #1 del curso de Arquitectura de Computadores 1, **CE4301**. Los detalles de la tarea se pueden obtener mediante el siguiente documento [Arqui1_Tarea1_v3.pdf](https://github.com/CURSOS-TEC/ARMTarea1/blob/master/Arqui1_Tarea1_v3.pdf "Arqui1_Tarea1_v3.pdf")
